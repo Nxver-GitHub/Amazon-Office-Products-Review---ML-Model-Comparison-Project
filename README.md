@@ -89,7 +89,8 @@ The dataset was obtained from Jianmo Ni's repository: [Amazon Office Products Da
 1. Office_Products_Reviews_Data.json: Contains the original dataset file and preprocessed data.
 2. LinearRegression.py: Python file for linear regression model.
 3. RandomForest.py: Python file for random forest model.
-4. README.md: This document.
+4. Discrete Math Paper (Linear Regression Vs. Random Forest ML Algorithms).pdf: My full written report of the project and its context for learning basic machine learning algorithms.
+5. README.md: This document.
 
 ---
 
@@ -98,10 +99,7 @@ The dataset was obtained from Jianmo Ni's repository: [Amazon Office Products Da
 ### Prerequisites
 
 1. Install Python 3.8 or later.
-2. Install the required packages using the following command:
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. Install the required packages and libraries for Pandas, Scikit-learn, NLTK, etc
 
 ### Steps
 
